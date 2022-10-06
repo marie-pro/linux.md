@@ -1,2 +1,4 @@
-# linux.md
-Documentaire Arte Linux
+#Linux
+
+Linux est un système d'exploitation créé par Linus Torvalds. Ce système est totalement gratuit et partage ses codes de manière à ce que tout le monde puisse y avoir accès, partage de nouvelles versions de Linux et même crééer une version adaptée à ses besoins personnels. Linus Torvalds est le propriétaire du noyau Linux mais ses collaborateurs sont nombreux; on peut citer notament son bras droit: Alan Cox. Linux est un système qui est différent de Microsoft, en effet ce dernier est payant et les codes sources sont privés et ne sont pas diffusés alors que Linux est totalement gratuit et dit "open source". 
+Linus Torvalds est également le créateur de GIT, cette application avait pour but premier de faciliter l'entraide pour coder Linux; elle est désormais une application de partage de codes entre dévéloppeurs du monde entier. 
